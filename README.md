@@ -8,3 +8,6 @@ simulation:
 
 static design:
 ![image](https://user-images.githubusercontent.com/71296059/216712744-f2643ebf-0424-4875-88c1-8fa30aa4f603.jpg)
+
+Flowchart:
+![image](https://user-images.githubusercontent.com/71296059/217701865-f2c26bb4-cce3-4695-b54e-548f387b673b.jpg)
